@@ -1,5 +1,5 @@
 
-# Mobile
+# Mobile Repositories
 
 Projeto feito para fixação dos conhecimentos de React.
 Desafio da [@rocketseat](https://github.com/rocketseat-education) do curso GoStack
